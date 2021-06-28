@@ -1,1 +1,13 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1400px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mlh-init-starter-kit-challange/static/css/main.7482e1ed.chunk.css",
+    "main.js": "/mlh-init-starter-kit-challange/static/js/main.c75daaba.chunk.js",
+    "main.js.map": "/mlh-init-starter-kit-challange/static/js/main.c75daaba.chunk.js.map",
+    "runtime-main.js": "/mlh-init-starter-kit-challange/static/js/runtime-main.8119faf8.js",
+    "runtime-main.js.map": "/mlh-init-starter-kit-challange/static/js/runtime-main.8119faf8.js.map",
+    "static/js/2.b2be32f0.chunk.js": "/mlh-init-starter-kit-challange/static/js/2.b2be32f0.chunk.js",
+    "static/js/2.b2be32f0.chunk.js.map": "/mlh-init-starter-kit-challange/static/js/2.b2be32f0.chunk.js.map",
+    "static/js/3.bbe056a1.chunk.js": "/mlh-init-starter-kit-challange/static/js/3.bbe056a1.chunk.js",
+    "static/js/3.bbe056a1.chunk.js.map": "/mlh-init-starter-kit-challange/static/js/3.bbe056a1.chunk.js.map",
+    "index.html": "/mlh-init-starter-kit-challange/index.html",
+    "static/css/main.7482e1ed.chunk.css.map": "/mlh-init-starter-kit-challange/static/css/main.7482e1ed.chunk.css.map",
+    "static/js/2.b2be32f0.chunk.js.LICENSE.txt": "/mlh-init-starter-kit-challange/static/js/2.b2be32f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8119faf8.js",
+    "static/js/2.b2be32f0.chunk.js",
+    "static/css/main.7482e1ed.chunk.css",
+    "static/js/main.c75daaba.chunk.js"
+  ]
+}
